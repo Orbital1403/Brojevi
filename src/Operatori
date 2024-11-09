@@ -1,0 +1,10 @@
+public calss operatori{
+    public class static void main(String[] args){
+//Operator <
+
+res = x<y;
+System.out.print("x<y:");
+    System.out.println(res);
+    }
+}
+ 
