@@ -16,6 +16,9 @@ public class Double_Float {
             // Deljenje sa decimalnim rezultatom
             double rezultat = broj1 / broj2;
             System.out.println("Rezultat deljenja sa decimalama: " + rezultat); // Rezultat je 2.5
+
+            float FloatNumber = (float) 3.14;
+            System.out.println(FloatNumber);
         }
     }
 
