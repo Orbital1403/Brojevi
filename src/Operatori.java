@@ -13,3 +13,13 @@ public class Operatori {
         }
 }
 
+/**
+ *
+ Operator	Značenje
+ ==	jednako je
+ !=	nije jednako
+ <	manje od
+ >	veće od
+ >=	veće ili jednako od
+ <=	manje ili jednako od
+ */

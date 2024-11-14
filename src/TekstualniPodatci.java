@@ -18,6 +18,8 @@ public class TekstualniPodatci {
     }
 }
 /**
+ * String message; //declaration
+ * message = "Hello World"; //initialization
  * \t	tab razmak
  * \b	backspace
  * \n	novi red
