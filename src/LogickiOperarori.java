@@ -9,10 +9,10 @@ public class LogickiOperarori {
 }
 
 /**
- * &&	AND	(6 < 11 && 5 > 1)       true
+ * &&	AND	(6 < 11 && 5 > 1)       true        - Operator AND zahteva ispunjenje svih navedenih uslova kako bi proizveo vrednost true. U protivnom, proizvodi vrednost false.
  *          (6 < 5 && 5 > 1)        false
  *
- * ||   OR  (6 < 5 || 5 > 1)        true
+ * ||   OR  (6 < 5 || 5 > 1)        true        - Operator OR zahteva ispunjenje samo jednog od uslova kako bi kao svoju finalnu vrednost proizveo true
  *
- * !    NOT !(6==6)                 false
+ * !    NOT !(6==6)                 false       - Operator NOT je operator negacije, koji true vrednost pretvara u false, a false u true,
  *          */
